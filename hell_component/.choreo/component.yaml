@@ -1,0 +1,17 @@
+metadata:
+    org:
+        id: "3053"
+        handle: charukakarunanayake
+    displayName: hell_component
+    displayType: ballerinaService
+    description: Ballerina service
+    version: 1.0.0
+    projectId: 58f8921e-64c4-491d-b590-f9d4c39dc5e2
+    accessibility: external
+    repository:
+        appSubPath: hell_component
+        orgApp: CharukaK
+        nameApp: TestCP3
+        branchApp: main
+        gitProvider: github
+id: ""
