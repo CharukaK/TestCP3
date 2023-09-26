@@ -1,0 +1,23 @@
+metadata:
+    org:
+        id: "3053"
+        handle: charukakarunanayake
+    displayName: webapp-thingy
+    displayType: byocWebAppsDockerfileLess
+    description: Web app thing
+    version: 1.0.0
+    projectId: 58f8921e-64c4-491d-b590-f9d4c39dc5e2
+    accessibility: external
+    repository:
+        appSubPath: webapp-thingy
+        orgApp: CharukaK
+        nameApp: TestCP3
+        branchApp: main
+        gitProvider: github
+    byocWebAppBuildConfig:
+        dockerContext: webapp-thingy
+        webAppType: React
+        buildCommand: npm run build
+        packageManagerVersion: "18"
+        outputDirectory: build
+id: ""
