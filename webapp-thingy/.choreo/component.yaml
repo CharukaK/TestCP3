@@ -4,7 +4,7 @@ metadata:
         handle: charukakarunanayake
     displayName: webapp-thingy
     displayType: byocWebAppsDockerfileLess
-    description: Web app thing
+    description: Web app thing i12
     version: 1.0.0
     projectId: 58f8921e-64c4-491d-b590-f9d4c39dc5e2
     accessibility: external
@@ -15,7 +15,7 @@ metadata:
         branchApp: main
         gitProvider: github
     byocWebAppBuildConfig:
-        dockerContext: webapp-thingy
+        dockerContext: webapp-thingy-1
         webAppType: React
         buildCommand: npm run build
         packageManagerVersion: "18"
