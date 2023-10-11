@@ -14,6 +14,6 @@ metadata:
         nameApp: TestCP3
         branchApp: main
         gitProvider: github
-id: ""
-handler: ""
+id: 764e027a-4027-4e48-b412-2c0656bbac5f
+handler: rlefeg
 commitHash: ""
